@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true relation of the great defeat given to Sir Ralph Hopton by Sir William Waller certified by severall letters from Sir William Wallers quarters, viz. [brace] Generall Brown, Lieut. Collonel Harrison, Captain Drinkwater : shewing how our forces March 28 beat the enemy at a skirmish, and on Friday March 29 gave them an overthrow and utterly routed them ... : and by directions from the states of both kingdomes an order for thanksgiuing  for the said victory by John Wollaston, mayor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40596</idno>
+            <idno type="STC">Wing F2325A</idno>
+            <idno type="STC">ESTC R43184</idno>
+            <idno type="EEBO-CITATION">26963630</idno>
+            <idno type="OCLC">ocm 26963630</idno>
+            <idno type="VID">109888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1717:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true relation of the great defeat given to Sir Ralph Hopton by Sir William Waller certified by severall letters from Sir William Wallers quarters, viz. [brace] Generall Brown, Lieut. Collonel Harrison, Captain Drinkwater : shewing how our forces March 28 beat the enemy at a skirmish, and on Friday March 29 gave them an overthrow and utterly routed them ... : and by directions from the states of both kingdomes an order for thanksgiuing  for the said victory by John Wollaston, mayor.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop and Andrew Coe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Formerly Wing F2321.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668.</term>
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109888:1" rendition="simple:additions"/>
+            <p>A full and true Relation Of the great Defeat given to Sir <hi>Ralph Hopton</hi> By Sir <hi>William Waller:</hi> Certified by ſeverall Letters from Sir <hi>William Wallers</hi> quarters. <hi>viz.</hi>
+               <list>
+                  <item>Generall <hi>Brown.</hi>
+                  </item>
+                  <item>Lieut. Collonel <hi>Harriſon.</hi>
+                  </item>
+                  <item>Captain <hi>Drinkwater.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Shewing how our Forces <hi>March</hi> 28. beat the Enemy at a Skirmiſh, and on Friday <hi>March</hi> 29. gave them an Overthrow, and utterly routed them.</p>
+            <p>Wherein were ſlain;
+<list>
+                  <item>The Lord <hi>Ruthen,</hi> Generall of the Kings Army.</item>
+                  <item>The Lord <hi>John</hi> Brother to the Duke of <hi>Lenox.</hi>
+                  </item>
+                  <item>And many more Commanders and Officers of note, and</item>
+                  <item>150. Common Soldiers.</item>
+               </list>
+            </p>
+            <p>Beſides which they took from the Enemy,
+<list>
+                  <item>7. Drakes.</item>
+                  <item>Sir <hi>Edward Stowell</hi> Collonel.</item>
+                  <item>Coll. <hi>Beards</hi> brother in Cheapſide.</item>
+                  <item>Captain <hi>Chidley.</hi>
+                  </item>
+                  <item>Captain <hi>Jackſon.</hi>
+                  </item>
+                  <item>Captain <hi>Seamore,</hi>
+                  </item>
+                  <item>Lieutenant <hi>Keto.</hi>
+                  </item>
+                  <item>3. Enſignes.</item>
+                  <item>Thomas Middleton.</item>
+                  <item>Francis Conſtable.</item>
+                  <item>Iames Ducket, <hi>Corner.</hi>
+                  </item>
+                  <item>And divers other priſoners of note,</item>
+               </list>
+            </p>
+            <p>
+               <hi>And by directions from the States of both King<g ref="char:EOLhyphen"/>domes, an Order for Thankeſgiuing for the ſaid Victory, by JOHN WOLLASTON, Mayor.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Bernard Alſop,</hi> and <hi>Andrew Coe,</hi> according to Order. 1644.</p>
+            <pb facs="tcp:109888:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_victory">
+            <pb facs="tcp:109888:2"/>
+            <head>A FULL RELATION OF A GREAT VICTORY Obtained by <hi>Sir</hi> WILLIAM VVALLER, Againſt Sir RALPH HOPTON:</head>
+            <head type="sub">As it was read by ſeverll Miniſters in the Pulpit before their Congregations in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity of <hi>London.</hi>
+            </head>
+            <p>UPON Friday March the 24. laſt, Sir William Wallers forces joyned battell with Hoptons forces, each party being ſuppoſed to be about 10000 ſtrong both in horſe and foot, the battle laſted from eigt of the clock in the morning till five at night; but about five of the clock the Lord made the enimies hearts to faile, ſo that they ranne away, the whole Army routed, ours purſuing, and ſlaying many in the purſuit.</p>
+            <pb facs="tcp:109888:3"/>
+            <p> Lord Generall <hi>Ruthen,</hi> and Lord <hi>Iohn</hi> brother to the Duke of Lenox are both ſlain, and about 150 of the common Soldiers, many alſo are taken pri<g ref="char:EOLhyphen"/>ſoners, and moſt of their Commanders are either wounded, ſlain, or taken priſoners; with many other conſiderable perſons, who were taken pri<g ref="char:EOLhyphen"/>ſoners<g ref="char:punc">▪</g> by our Officers. Not above three of the London Brigade are loſt, nor above twenty of the whole Army (as is ſuppoſed.) For all which extraordinary mercies, it is earneſtly deſired by Lieutenant Collonel <hi>Harriſon</hi> of the Yellow Re<g ref="char:EOLhyphen"/>giment, that all poſſible praiſes may be rendred to the Lord of Hoſtes, the ſole worker of all.</p>
+            <p>This Relation is confirmed by ſeverall Letters; as from Generall <hi>Browne,</hi> Lieutenant Collonell <hi>Harriſon,</hi> and Captain <hi>Drinkwater.</hi>
+            </p>
+            <div type="list_of_prisoners">
+               <p>
+                  <list>
+                     <head>Taken priſoners the ſame day:</head>
+                     <item>I. Colonel.</item>
+                     <item>III. Captains.</item>
+                     <item>I. Leivtenant.</item>
+                     <item>IIII. <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>llers alſo taken and</item>
+                     <item>VII. Drakes,</item>
+                     <item>I. Old Prieſt.</item>
+                  </list> and many others of note, conſerning which more is certified in Captain Drink waters Letter following</p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:109888:3"/>
+            <head>To his loving and deare Wife, Miſtreſſe <hi>Elizabeth Drinkwater,</hi> at the Blev Bore in <hi>Friday Street,</hi> in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Sweetheart,</salute>
+            </opener>
+            <p>YEſterday being Thurſday, we skirmiſht all day with the Enemy, ſome being taken on both ſides, and ſome and ſome few killed: Th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s day we had a ſound Battle, it be<g ref="char:EOLhyphen"/>gan at eight a Clocke in the morning, and laſted untill five at night, at which time the enemy betook them to their heels, and are run away to Wincheſter, and Baſing houſe, as we are informed. Our Horſe purſued them, and do ſtill follow the purſuit; we have ſent Scouts after them, to know where they are: Sir <hi>William Waller</hi> and Sir <hi>William Balfourd</hi> are ſtill in the purſuit; we have killed many, amongſt which is one General <hi>Ruthen,</hi> and the Lord <hi>Iohn</hi> Brother to the Duke of Lenox, and many more; but as yet I can write no certain number. VVe have taken a hundred and fifty priſoners, and wounded many; and I do not know of thirty killed of our ſide. Tell my Brother <hi>Robert</hi> that Captain <hi>Milton</hi> is taken priſoner, and carried away; but I hope to morrow he ſhall be redeemed, if they flye not quite away. After our fight, we followed the Enemy to this Town, where we arrived about ten of the Clocke at night, and are going as faſt as we can to VVincheſter after them, and it may be we may have another Battle.</p>
+            <pb facs="tcp:109888:4"/>
+            <p> I pray God proſper our endeavours, which I doubt not but he will doe, he hath been this day and night good unto us, and hath ſhewed himſelfe a gratious Father unto us beyond expectation, and in particular I have ſeen his power and mer<g ref="char:EOLhyphen"/>cy to me, b<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g ingaged, and almoſt paſt hopes to come off alive, but bleſſed be his name, and I pray God make me ever to praiſe his name for the ſame. It was the braveſt battell fought on both ſides, (by all reports) ever ſince the warres began, the Armies did conſiſt of about ten thouſand apeece, little or no difference, but God was the God of battle who will never forake his juſt warre.</p>
+            <p>Newes comes in that ſeven Drakes are taken by our horſe in the purſuit, which I hope will hold true, I will write the Relation more fully by the firſt I can. But <hi>Hoptons</hi> forces are quite routed for the preſent and ran quite away, and we pur<g ref="char:EOLhyphen"/>ſuing as I have writ, when we ſhall return I know not; I pray God ſend us a merry meeting, feare nothing, but that God that hath preſerved me, will bring me ſafe home, and ſo until I ſee you and ever, I leave you to God, and will ever reſt,</p>
+            <closer>
+               <signed>Your ever loving Husband, <hi>THOMAS<g ref="char:punc">▪</g> DRINKWATER<g ref="char:punc">▪</g>
+                  </hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>POSCRIPT.</head>
+               <p>There were taken priſoners,
+<list>
+                     <item>Sir <hi>Edward Stowell</hi>
+                     </item>
+                     <item>Colonell, Colonell <hi>Beard</hi> his brother in Cheapſide,</item>
+                     <item>Captain <hi>Chedley,</hi>
+                     </item>
+                     <item>Captaine <hi>Iackſon,</hi>
+                     </item>
+                     <item>Captaine <hi>Edmond,</hi>
+                     </item>
+                     <item>Lievtenant <hi>Kite,</hi>
+                     </item>
+                     <item>three Enſignes,</item>
+                     <item>
+                        <hi>Thomas Middletin,</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Constable,</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Ducket</hi> Coronet,</item>
+                  </list> and divers of note, are taken priſoners.</p>
+               <p>Tell Miſtris <hi>Goſſlee</hi> her husband is very well, and ſo are all my Officers, and all my companie, except one of my ſouldi<g ref="char:EOLhyphen"/>ers wounded.</p>
+               <closer>
+                  <dateline>Dated <date>the 29 of <hi>March,</hi> 1644.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="order_for_thanksgiving">
+            <pb facs="tcp:109888:4"/>
+            <head>By the Maior.</head>
+            <head type="sub">To every Miniſter within the City of London Liberties, Line of Communication, and Bils of Mortality.</head>
+            <p>THE extraordinary bleſsing of God upon the forces under the command of Sir <hi>William Wal<g ref="char:EOLhyphen"/>ler,</hi> and Sir <hi>William Belford,</hi> againſt the Army led by Sir <hi>Ralph Hopton,</hi> for the deſtruction of the Parliament, this city and Kingdom in a bat<g ref="char:EOLhyphen"/>tell neare Wincheſter, yeſterday being Friday, the 24. of this inſtant March, which continued from eight of the clock in the morning untill night, wherein the enemy was abſolutely routed, and purſued many miles with good exe<g ref="char:EOLhyphen"/>cution, being ſignified unto me by the moſt Honourable Committee of both Kingdomes, requires a more ſolemne thanksgiving then upon ſo ſhort warning can be performed, eſpecially conſidering that this mercy hath been beyond ex<g ref="char:EOLhyphen"/>pectation, caſt from heaven into our boſomes, ſo ſoone after our late faſting and humiliation, after that ſad blow a<g ref="char:EOLhyphen"/>bout Newark.</p>
+            <pb facs="tcp:109888:5"/>
+            <p> I do heartily (according to the Order of the ſaid Com<g ref="char:EOLhyphen"/>mittee of both Kingdomes) deſire and require you, to mor<g ref="char:EOLhyphen"/>row being the Lords day, to give notice of this goodneſſe to your Congregation, uſing your beſt endeavours to quicken them to the higheſt pitch of thankfulneſſe to the God of our. Mercies, and to engage their hearts and hands yet further, to helpe the Lord againſt the mighty, with their prayers, and all other helpes of money, armes, horſes, men, or ot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er provi<g ref="char:EOLhyphen"/>ſions, for the inſtant making up or ſupplying abody of horſe and foot, to go out and follow the enemy, to prevent the ral<g ref="char:EOLhyphen"/>lying of his men, or raiſing of new forces, to do further miſ<g ref="char:EOLhyphen"/>chief, that God may give an end to the preſent Calamities, and reſtore a ſtable peace in this afflicted Nation, to the com<g ref="char:EOLhyphen"/>fort of all Gods people in all the Kingdomes.</p>
+            <p>And what God ſhall move the hearts of men to ſubſcribe and contribute, or what men they ſhall ſend out or maintain to this moſt neceſſary ſervice, not onely my ſelfe, but the Committee of the Militia, do make it our joynt requeſt, that you, with ſome others well affected, would ſet downe in writing, and returne upon Munday morning next, without faile, to the Commitee of the Militia at Guildhall.</p>
+            <closer>
+               <dateline>Dated <date>this 30. of March. 1644.</date>
+               </dateline>
+               <signed>
+                  <hi>Iohn Wollaſton,</hi> Mayor.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
